@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#EAE0D4"
+    android:orientation="vertical"
+    tools:context=".Dashboard">
+
+    <ImageView
+        android:src="@drawable/dashboard"
+        android:paddingBottom="25dp"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <FrameLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/addEvent"
+            android:src="@drawable/addevent"
+            android:background="#EAE0D4"
+            android:textAllCaps="false"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|left"/>
+
+        <ImageButton
+            android:id="@+id/searchEvent"
+            android:src="@drawable/search"
+            android:background="#EAE0D4"
+            android:textAllCaps="false"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"/>
+
+    </FrameLayout>
+    <FrameLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/aboutUs"
+            android:src="@drawable/about"
+            android:background="#EAE0D4"
+            android:textAllCaps="false"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|left"/>
+
+        <ImageButton
+            android:id="@+id/progressEvent"
+            android:src="@drawable/check"
+            android:background="#EAE0D4"
+            android:textAllCaps="false"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"/>
+
+    </FrameLayout>
+
+</LinearLayout>

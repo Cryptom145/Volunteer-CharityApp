@@ -1,0 +1,26 @@
+<resources>
+    <string name="add_post">Add Post</string>
+    <string name="enter_name">Enter name..</string>
+    <string name="enter_description">Enter description..</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="save_post">Save Post</string>
+    <string name="update_post">Update Post</string>
+    <string name="get_started">Get Started</string>
+    <string name="add_event">Register Event</string>
+    <string name="enter_event_description">Enter event description...</string>
+    <string name="enter_event_schedule">Enter event schedule...</string>
+    <string name="enter_event_title">Enter event title...</string>
+    <string name="enter_your_name">Enter your name...</string>
+    <string name="enter_event">Enter Event</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_desc">\Charity events and volunteering stand as pillars of this fabric, fostering a sense of community, empathy, and social responsibility. These endeavors not only contribute to the welfare of those in need but also create a profound impact on the individuals who engage in them.</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="previous_events">Previous Events</string>
+    <string name="on_going_events">On-going Events</string>
+    <string name="volunteer_charity"><![CDATA[Volunteer & Charity]]></string>
+    <string name="wally_and_co">Wally and Co.</string>
+    <string name="about_us_desc2">Created by Tyrone John Tarona, Wally Dignos and Jade Tesoro.</string>
+    <string name="enter_participant">Enter Participant</string>
+    <string name="event_progress">Event Progress</string>
+</resources>
